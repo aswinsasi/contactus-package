@@ -1,0 +1,19 @@
+{
+    "name": "aswinachu/contact",
+    "description": "generate contact page and mail",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name" : "aswin achu",
+            "email": "aswinfear01@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+                "Aswinachu\\Contact\\": "src/"
+        }
+    }
+}
